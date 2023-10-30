@@ -1,4 +1,4 @@
-## A simple user management application built using React and Axios for fetching user data. This application allows you to view, add, edit, and delete user records.
+### A simple user management application built using React and Axios for fetching user data. This application allows you to view, add, edit, and delete user records.
 
 # Overview
 This React application provides a user interface for managing user records. It fetches user data from the Reqres API and allows you to:
